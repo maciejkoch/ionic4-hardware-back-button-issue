@@ -1,5 +1,7 @@
 {
   "name": "ionic4-hardware-back-button-issue",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
